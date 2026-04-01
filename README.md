@@ -2,10 +2,16 @@
 
 Simple ETL pipeline untuk membersihkan dan menganalisis dataset Airbnb New York City 2019.
 
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-7db0bc?style=flat)
+
 ## Daftar Isi
 
 - [Overview](#overview)
-- [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Quick Start](#quick-start)
 - [Data Comparison: Before vs After](#data-comparison-before-vs-after-cleaning)
@@ -27,15 +33,6 @@ Project ini dibuat sebagai studi kasus Data Engineer internship. Fokus utama ada
 - Melakukan data cleaning (handling missing values, formatting, filtering)
 - Menyimpan cleaned data untuk analisis lanjutan
 - Membuat visualisasi dasar untuk eksplorasi data
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-7db0bc?style=flat)
 
 ## Project Structure
 
