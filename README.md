@@ -2,6 +2,24 @@
 
 Simple ETL pipeline untuk membersihkan dan menganalisis dataset Airbnb New York City 2019.
 
+## Daftar Isi
+
+- [Overview](#overview)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Quick Start](#quick-start)
+- [Data Comparison: Before vs After](#data-comparison-before-vs-after-cleaning)
+- [ETL Process](#etl-process)
+- [Visualisasi & Analisis](#visualisasi--analisis)
+  - [Rata-rata Harga per Borough](#1-rata-rata-harga-per-borough)
+  - [Distribusi Geografis Listing](#2-distribusi-geografis-listing)
+  - [Analisis Room Type](#3-analisis-room-type)
+- [Key Findings Summary](#key-findings-summary)
+- [Dataset](#dataset)
+- [How to Reproduce](#how-to-reproduce)
+
+---
+
 ## Overview
 
 Project ini dibuat sebagai studi kasus Data Engineer internship. Fokus utama adalah membangun pipeline ETL sederhana yang dapat:
@@ -12,10 +30,12 @@ Project ini dibuat sebagai studi kasus Data Engineer internship. Fokus utama ada
 
 ## Tech Stack
 
-- Python 3.12
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-7db0bc?style=flat)
 
 ## Project Structure
 
