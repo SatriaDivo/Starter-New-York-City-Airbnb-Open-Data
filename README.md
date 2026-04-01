@@ -27,7 +27,6 @@ Project ini dibuat sebagai studi kasus Data Engineer internship. Fokus utama ada
 │       ├── raw/               # Raw dataset
 │       └── clean/             # Cleaned output
 ├── images/                    # Visualisasi hasil analisis
-├── generate_images.py         # Script untuk generate visualisasi
 ├── requirements.txt
 └── README.md
 ```
@@ -185,8 +184,5 @@ Source: [Kaggle - NYC Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov
 1. Clone repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run notebook: `jupyter notebook notebooks/etl_airbnb.ipynb`
-4. (Optional) Generate images: `python generate_images.py`
 
 ---
-
-*Dibuat untuk Studi Kasus Magang - Data Engineer*
